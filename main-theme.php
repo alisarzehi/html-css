@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<!-- head -->
+
+<head>
+    <meta charset="utf-8" />
+    <title>لندریک - قالب چندمنظوره ای مدرن html</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Landing Page Template" />
+    <meta name="keywords" content="Software, multi-uses, HTML, Clean, Modern" />
+    <meta name="author" content="ali sarzehi" />
+    <meta name="email" content="ali.srir@gmail.com" />
+    <meta name="website" content="https://www.alisarzehi.ir/author/" />
+    <meta name="Version" content="v3.2.1" />
+    <!-- favicon -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <!-- Main Css -->
+    <link href="assets/css/style.min.css" rel="stylesheet" type="text/css" id="theme-opt" />
+    <!--Add CSS -->
+
+</head>
+<!-- end head -->
+
+<body>
+
+</body>
+
+</html>
